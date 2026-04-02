@@ -243,7 +243,7 @@
 ### Task 4 — Written Summary
 
 ## PDF File
-[Download PBIX](./Task_3.pbix)
+[Download PDF](./Task_4.pdf)
 
 - ##### The most important insight from the data is that Beauty and Electronics categories generate the highest revenue, making them the key drivers of the business. 
 
