@@ -262,7 +262,17 @@
 - ##### Additionally, the company should promote low-performing categories like Books to increase overall revenue diversification. 
 
 
+### Bonus Task
 
+## PDF File
+[Download PDF](./Task_4.pdf)
+
+- ##### There is a positive correlation between discount and return rate, indicating that aggressive discounting may reduce profitability 
+- ##### Revenue shows strong seasonality, with peaks during festive months (Oct–Dec) 
+- ##### Certain regions consistently outperform others, suggesting regional demand differences 
+- ##### Outliers in delivery time indicate potential logistics inefficiencies 
+- ##### High-value product outliers should be validated to avoid skewed analysis 
+- ##### An interactive dashboard enables stakeholders to explore trends dynamically and make faster decisions 
 
 
 
