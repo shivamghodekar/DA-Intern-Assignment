@@ -199,6 +199,9 @@
     
 ### Task 3 — Visualisations
 
+## Power BI File
+[Download PBIX](./Task_1.pbix)
+
 | # | Chart Type | What It Shows |
 |---|-----------|---------------|
 | 1 | Bar Chart | Total net revenue by category |
@@ -207,11 +210,18 @@
 | 4 | Pie / Donut | Payment method share |
 | 5 | Custom | Interesting insight (explained in notebook) |
 
-- Bar chart - Total net revenue by category (both years combined)
-- Line chart - Monthly net revenue trend — show 2023 and 2024 as two separate lines
-- Grouped bar - Order count by status (Delivered / Returned / Cancelled) per region
-- Pie / Donut - Payment method share across all orders
-- Your choice Any insight you find interesting — explain your chart choice in 1–2 sentences
+- #### Bar chart - Total net revenue by category (both years combined)
+  
+  <img width="418" height="274" alt="image" src="https://github.com/user-attachments/assets/a9f4a17f-9b15-4c89-9d11-6fa7abd62bd4" />
+
+- #### Line chart - Monthly net revenue trend — show 2023 and 2024 as two separate lines
+  
+- #### Grouped bar - Order count by status (Delivered / Returned / Cancelled) per region
+  
+- #### Pie / Donut - Payment method share across all orders
+  
+- #### Your choice Any insight you find interesting — explain your chart choice in 1–2 sentences
+
 
 ### Task 4 — Written Summary
 
