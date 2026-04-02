@@ -44,6 +44,12 @@
 | 4 | Pie / Donut | Payment method share |
 | 5 | Custom | Interesting insight (explained in notebook) |
 
+- Bar chart - Total net revenue by category (both years combined)
+- Line chart - Monthly net revenue trend — show 2023 and 2024 as two separate lines
+- Grouped bar - Order count by status (Delivered / Returned / Cancelled) per region
+- Pie / Donut - Payment method share across all orders
+- Your choice Any insight you find interesting — explain your chart choice in 1–2 sentences
+
 ### Task 4 — Written Summary
 
 - Most important insight
