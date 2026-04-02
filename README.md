@@ -22,6 +22,7 @@
 1) How many orders are there in total? 
 <img width="178" height="188" alt="image" src="https://github.com/user-attachments/assets/df840e4d-fa2e-45c3-b0d0-2a1795ce506c" />
 
+
 1. a) How many are Delivered / Returned / Cancelled?
 - Cancelled :-
 <img width="353" height="152" alt="image" src="https://github.com/user-attachments/assets/1fea34ca-0385-4b2b-9eeb-b705964f0555" />
@@ -31,6 +32,7 @@
 
 - Returned :-
 <img width="325" height="141" alt="image" src="https://github.com/user-attachments/assets/59d92017-c509-4fe4-b1b8-a735d1d585ac" />
+
 
 
 2) Are there any missing values? Which columns have them, and why do you think they're blank?
@@ -46,6 +48,8 @@
 - return_reason :-
 - This is blank when the order is not returned.
 - Only returned orders will have a reason.
+
+
     
 3. a) What is the date range of the dataset?
 
@@ -60,6 +64,8 @@
 
 - 2024 :-
 <img width="303" height="163" alt="image" src="https://github.com/user-attachments/assets/5420b733-beb1-47d8-9876-efeb2b3cf138" />
+
+
 
 4. a) What is the average delivery_days for Delivered orders,
 <img width="203" height="135" alt="image" src="https://github.com/user-attachments/assets/16b54732-f290-47ac-8377-a4492895742a" />
@@ -81,6 +87,7 @@
 <img width="403" height="146" alt="image" src="https://github.com/user-attachments/assets/4de35b9f-0339-482b-8ea3-6a7771befe97" />
 
 
+
 5) Which age group (e.g. 18–25, 26–35, 36–45, 46+) placed the most orders?
 
 - 46+ age placed most orders
@@ -94,8 +101,9 @@
 - 36-45 :-
 <img width="353" height="141" alt="image" src="https://github.com/user-attachments/assets/1cecd946-d6ce-4b8a-9ba2-22c89f94d853" />
 
-- 46+
+- 46+ :-
 <img width="336" height="147" alt="image" src="https://github.com/user-attachments/assets/f235ea1c-33d2-4eeb-ae39-3ccf4802c26a" />
+
 
   
 ### Task 2 — SQL / Analysis Queries
