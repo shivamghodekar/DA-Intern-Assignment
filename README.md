@@ -113,7 +113,7 @@
   
 ### Task 2 — SQL / Analysis Queries
 
-## Power BI File
+## SQL File
 [Download sql](./Task_2.sql)
 
 - #### 1) Which 3 categories generated the highest total net revenue across both years?
@@ -242,6 +242,9 @@
 
 ### Task 4 — Written Summary
 
+## PDF File
+[Download PBIX](./Task_3.pbix)
+
 - ##### The most important insight from the data is that Beauty and Electronics categories generate the highest revenue, making them the key drivers of the business. 
 
 - ##### Comparing year-on-year performance, 2024 shows higher total revenue than 2023, indicating consistent business growth. 
@@ -257,6 +260,9 @@
 - ##### One actionable recommendation is to focus on improving performance in underperforming regions through targeted marketing and better delivery operations. 
 
 - ##### Additionally, the company should promote low-performing categories like Books to increase overall revenue diversification. 
+
+
+
 
 
 ---
