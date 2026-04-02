@@ -19,7 +19,7 @@
 
 ### Task 1 — Data Cleaning & Exploration
 
-## 1) How many orders are there in total? 
+#### 1) How many orders are there in total? 
 <img width="178" height="188" alt="image" src="https://github.com/user-attachments/assets/df840e4d-fa2e-45c3-b0d0-2a1795ce506c" />
 
 
