@@ -60,10 +60,4 @@
 ---
 
 
-
-| Task 4 | ~10 min |
-| **Total** | **~100 min** |
-
----
-
 *Submitted as part of the Data Analyst Intern Assessment.*
