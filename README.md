@@ -25,8 +25,10 @@
 - How many are Delivered / Returned / Cancelled?
 - Cancelled :-
 <img width="353" height="152" alt="image" src="https://github.com/user-attachments/assets/1fea34ca-0385-4b2b-9eeb-b705964f0555" />
+
 - Delivered :-
 <img width="336" height="143" alt="image" src="https://github.com/user-attachments/assets/f79a72cc-0dc6-48b7-9a2f-b8fb91c387e3" />
+
 - Returned :-
 <img width="325" height="141" alt="image" src="https://github.com/user-attachments/assets/59d92017-c509-4fe4-b1b8-a735d1d585ac" />
 
