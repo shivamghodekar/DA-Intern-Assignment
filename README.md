@@ -28,10 +28,10 @@
 - ##### Cancelled :-
 <img width="353" height="152" alt="image" src="https://github.com/user-attachments/assets/1fea34ca-0385-4b2b-9eeb-b705964f0555" />
 
-- Delivered :-
+- ##### Delivered :-
 <img width="336" height="143" alt="image" src="https://github.com/user-attachments/assets/f79a72cc-0dc6-48b7-9a2f-b8fb91c387e3" />
 
-- Returned :-
+- ##### Returned :-
 <img width="325" height="141" alt="image" src="https://github.com/user-attachments/assets/59d92017-c509-4fe4-b1b8-a735d1d585ac" />
 
 
@@ -42,67 +42,68 @@
 
 - #### Why are they blank?
 
-- delivery_days :-
+- ##### delivery_days :-
 - This is blank mostly when the order is not delivered yet or cancelled.
 - Because delivery time only exists after delivery happens
 
-- return_reason :-
+- ##### return_reason :-
 - This is blank when the order is not returned.
 - Only returned orders will have a reason.
 
 
     
-3. a) What is the date range of the dataset?
+#### 3. a) What is the date range of the dataset?
 
-- Date Range :- January 3, 2023 – December 31, 2024
+- ##### Date Range :- January 3, 2023 – December 31, 2024
 
 <img width="426" height="107" alt="image" src="https://github.com/user-attachments/assets/17e05cbf-e937-4c1b-b8b4-49004e43a95e" />
 
-3. b) How many orders fall in 2023 vs 2024?
+#### 3. b) How many orders fall in 2023 vs 2024?
 
-- 2023 :-
+- ##### 2023 :-
 <img width="269" height="136" alt="image" src="https://github.com/user-attachments/assets/a8949401-e195-4cbd-b45d-9efd95b0c306" />
 
-- 2024 :-
+- ##### 2024 :-
 <img width="303" height="163" alt="image" src="https://github.com/user-attachments/assets/5420b733-beb1-47d8-9876-efeb2b3cf138" />
 
 
 
-4. a) What is the average delivery_days for Delivered orders,
+#### 4. a) What is the average delivery_days for Delivered orders,
 <img width="203" height="135" alt="image" src="https://github.com/user-attachments/assets/16b54732-f290-47ac-8377-a4492895742a" />
 
-4. b) broken down by region?
-- Central :-
+#### 4. b) broken down by region?
+
+- ##### Central :-
 <img width="411" height="142" alt="image" src="https://github.com/user-attachments/assets/e34cab81-5ba7-42ca-88ed-09a4fa365200" />
 
-- East:-
+- ##### East:-
 <img width="412" height="137" alt="image" src="https://github.com/user-attachments/assets/89b6f41c-cbc0-4734-8fbf-233dc5952542" />
 
-- North :-
+- ##### North :-
 <img width="416" height="137" alt="image" src="https://github.com/user-attachments/assets/0c235dfb-9fb4-4b50-a77c-2db7db999cca" />
 
-- South :-
+- ##### South :-
 <img width="422" height="154" alt="image" src="https://github.com/user-attachments/assets/c47723ad-2b64-4466-9445-3815b1ea731f" />
 
-- West :-
+- ##### West :-
 <img width="403" height="146" alt="image" src="https://github.com/user-attachments/assets/4de35b9f-0339-482b-8ea3-6a7771befe97" />
 
 
 
-5) Which age group (e.g. 18–25, 26–35, 36–45, 46+) placed the most orders?
+#### 5) Which age group (e.g. 18–25, 26–35, 36–45, 46+) placed the most orders?
 
-- 46+ age placed most orders
+- ##### 46+ age placed most orders
 
-- 18-25 :-
+- ##### 18-25 :-
 <img width="354" height="134" alt="image" src="https://github.com/user-attachments/assets/55233543-5a02-452a-9f09-56c0d9d7da1c" />
 
-- 26-35 :-
+- ##### 26-35 :-
 <img width="357" height="130" alt="image" src="https://github.com/user-attachments/assets/2ac4d1a3-e8d5-4e32-8916-863627e5b686" />
 
-- 36-45 :-
+- ##### 36-45 :-
 <img width="353" height="141" alt="image" src="https://github.com/user-attachments/assets/1cecd946-d6ce-4b8a-9ba2-22c89f94d853" />
 
-- 46+ :-
+- ##### 46+ :-
 <img width="336" height="147" alt="image" src="https://github.com/user-attachments/assets/f235ea1c-33d2-4eeb-ae39-3ccf4802c26a" />
 
 
