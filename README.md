@@ -124,7 +124,11 @@
   
 - Compare total net revenue 2023 vs 2024 — did the business grow year-on-year?
 
-
+  ```sql
+  SELECT YEAR, SUM(net_revenue_inr) AS net_revenue
+  FROM shopease_orders
+  GROUP BY 1;
+  
 
 - Which region had the highest average order value? Which had the most cancellations?
 
