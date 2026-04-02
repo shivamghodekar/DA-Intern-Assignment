@@ -113,7 +113,7 @@
   
 ### Task 2 — SQL / Analysis Queries
 
-- #### Which 3 categories generated the highest total net revenue across both years?
+- #### 1) Which 3 categories generated the highest total net revenue across both years?
   
   ```sql
   SELECT category, SUM(net_revenue_inr) AS net_revenue
@@ -122,7 +122,7 @@
   ORDER BY net_revenue DESC
   LIMIT 3;
   
-- Compare total net revenue 2023 vs 2024 — did the business grow year-on-year?
+- #### 2) Compare total net revenue 2023 vs 2024 — did the business grow year-on-year?
 
   ```sql
   SELECT YEAR, SUM(net_revenue_inr) AS net_revenue
@@ -130,7 +130,14 @@
   GROUP BY 1;
   
 
-- Which region had the highest average order value? Which had the most cancellations?
+  #### 3. a) Which region had the highest average order value? 
+
+  ```sql
+  SELECT region, AVG(net_revenue_inr) AS order_value
+  FROM shopease_orders
+  GROUP BY 1
+  ORDER BY order_value DESC
+  LIMIT 1;
 
 - What is the most common return reason? Which category has the highest return rate?
 
