@@ -19,10 +19,10 @@
 
 ### Task 1 — Data Cleaning & Exploration
 
-- How many orders are there in total? 
+- 1) How many orders are there in total? 
 <img width="178" height="188" alt="image" src="https://github.com/user-attachments/assets/df840e4d-fa2e-45c3-b0d0-2a1795ce506c" />
 
-- How many are Delivered / Returned / Cancelled?
+- 1. a) How many are Delivered / Returned / Cancelled?
 - Cancelled :-
 <img width="353" height="152" alt="image" src="https://github.com/user-attachments/assets/1fea34ca-0385-4b2b-9eeb-b705964f0555" />
 
@@ -33,10 +33,22 @@
 <img width="325" height="141" alt="image" src="https://github.com/user-attachments/assets/59d92017-c509-4fe4-b1b8-a735d1d585ac" />
 
 
-
+- 2) Are there any missing values? Which columns have them, and why do you think they're blank?
+    
+- 3) What is the date range of the dataset?
+- Date Range :- January 3, 2023 – December 31, 2024
 - 
-- Are there any missing values? Which columns have them, and why do you think they're blank?
-- What is the date range of the dataset? How many orders fall in 2023 vs 2024?
+<img width="426" height="107" alt="image" src="https://github.com/user-attachments/assets/17e05cbf-e937-4c1b-b8b4-49004e43a95e" />
+
+- 3. a) How many orders fall in 2023 vs 2024?
+- 2023 :-
+<img width="269" height="136" alt="image" src="https://github.com/user-attachments/assets/a8949401-e195-4cbd-b45d-9efd95b0c306" />
+
+- 2024 :-
+<img width="303" height="163" alt="image" src="https://github.com/user-attachments/assets/5420b733-beb1-47d8-9876-efeb2b3cf138" />
+
+
+     
 - What is the average delivery_days for Delivered orders, broken down by region?
 - Which age group (e.g. 18–25, 26–35, 36–45, 46+) placed the most orders?
 
