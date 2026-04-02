@@ -264,8 +264,8 @@
 
 ### Bonus Task
 
-## PDF File
-[Download PDF](./Task_4.pdf)
+## Python Jupyter Notebook File
+[Download ipynb](./Bonus Task.ipynb)
 
 - ##### There is a positive correlation between discount and return rate, indicating that aggressive discounting may reduce profitability 
 - ##### Revenue shows strong seasonality, with peaks during festive months (Oct–Dec) 
