@@ -20,6 +20,8 @@
 ### Task 1 — Data Cleaning & Exploration
 
 - How many orders are there in total? How many are Delivered / Returned / Cancelled?
+- <img width="178" height="188" alt="image" src="https://github.com/user-attachments/assets/df840e4d-fa2e-45c3-b0d0-2a1795ce506c" />
+
 - Are there any missing values? Which columns have them, and why do you think they're blank?
 - What is the date range of the dataset? How many orders fall in 2023 vs 2024?
 - What is the average delivery_days for Delivered orders, broken down by region?
