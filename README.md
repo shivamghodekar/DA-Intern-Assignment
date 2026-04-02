@@ -267,6 +267,29 @@
 ## Python Jupyter Notebook File
 [Download ipynb](./Bonus_Task.ipynb)
 
+- #### Revenue by Category
+  <img width="771" height="363" alt="image" src="https://github.com/user-attachments/assets/e81427b7-e7a3-4d1b-998a-aa07dfcaed9a" />
+
+- #### Monthly net revenue trend
+<img width="809" height="353" alt="image" src="https://github.com/user-attachments/assets/3890fe6f-5222-458c-b20c-a7a16a89bbaf" />
+
+- #### Payment Method Share
+<img width="822" height="321" alt="image" src="https://github.com/user-attachments/assets/6e90218a-131c-43ff-b8bd-ec025ebd5138" />
+
+- #### 1) Discount vs Return Rate Analysis
+  <img width="622" height="472" alt="image" src="https://github.com/user-attachments/assets/d1f547cd-338e-480f-81bd-f21c9f2763f7" />
+
+- #### 2) Heatmap — Revenue by Region & Month
+  <img width="614" height="492" alt="image" src="https://github.com/user-attachments/assets/8e03ad23-9248-4c81-b639-7884d67c653a" />
+
+- #### 3. a) Delivery Days Outliers
+  <img width="629" height="454" alt="image" src="https://github.com/user-attachments/assets/6cab6658-f214-45a0-a3a5-652ed9a78162" />
+
+- #### 3. b) Unit Price Outliers
+  <img width="668" height="445" alt="image" src="https://github.com/user-attachments/assets/16995691-9b39-4db6-a28c-a9ec22393471" />
+
+- #### INSIGHTS :-
+  
 - ##### There is a positive correlation between discount and return rate, indicating that aggressive discounting may reduce profitability 
 - ##### Revenue shows strong seasonality, with peaks during festive months (Oct–Dec) 
 - ##### Certain regions consistently outperform others, suggesting regional demand differences 
