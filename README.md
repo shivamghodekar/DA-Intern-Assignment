@@ -215,12 +215,29 @@
   <img width="418" height="274" alt="image" src="https://github.com/user-attachments/assets/a9f4a17f-9b15-4c89-9d11-6fa7abd62bd4" />
 
 - #### Line chart - Monthly net revenue trend — show 2023 and 2024 as two separate lines
-  
+
+  <img width="422" height="258" alt="image" src="https://github.com/user-attachments/assets/c020a0d9-976c-4e9f-b9b3-24020616d97e" />
+
 - #### Grouped bar - Order count by status (Delivered / Returned / Cancelled) per region
-  
+
+  <img width="467" height="272" alt="image" src="https://github.com/user-attachments/assets/a1d20644-5e08-45c4-8047-f05fd4cdf0bd" />
+
 - #### Pie / Donut - Payment method share across all orders
-  
+
+  <img width="451" height="299" alt="image" src="https://github.com/user-attachments/assets/b70e147f-c272-4763-b2a6-646713921ee4" />
+
 - #### Your choice Any insight you find interesting — explain your chart choice in 1–2 sentences
+  
+  <img width="424" height="248" alt="image" src="https://github.com/user-attachments/assets/22d9e34b-35ea-4e46-8610-41af234ed105" />
+
+- #### Why I Chose This Visualization
+- ##### A bar chart is best for comparing values across categories 
+- ##### bar chart gives clear comparison
+  
+- #### Helps quickly identify
+- ##### Top-performing regions 
+- ##### Underperforming regions 
+
 
 
 ### Task 4 — Written Summary
