@@ -22,7 +22,7 @@
 1) How many orders are there in total? 
 <img width="178" height="188" alt="image" src="https://github.com/user-attachments/assets/df840e4d-fa2e-45c3-b0d0-2a1795ce506c" />
 
-- 1. a) How many are Delivered / Returned / Cancelled?
+1. a) How many are Delivered / Returned / Cancelled?
 - Cancelled :-
 <img width="353" height="152" alt="image" src="https://github.com/user-attachments/assets/1fea34ca-0385-4b2b-9eeb-b705964f0555" />
 
@@ -33,15 +33,15 @@
 <img width="325" height="141" alt="image" src="https://github.com/user-attachments/assets/59d92017-c509-4fe4-b1b8-a735d1d585ac" />
 
 
-- 2) Are there any missing values? Which columns have them, and why do you think they're blank?
+2) Are there any missing values? Which columns have them, and why do you think they're blank?
     
-- 3. a) What is the date range of the dataset?
+3. a) What is the date range of the dataset?
 
 - Date Range :- January 3, 2023 – December 31, 2024
 
 <img width="426" height="107" alt="image" src="https://github.com/user-attachments/assets/17e05cbf-e937-4c1b-b8b4-49004e43a95e" />
 
-- 3. b) How many orders fall in 2023 vs 2024?
+3. b) How many orders fall in 2023 vs 2024?
 
 - 2023 :-
 <img width="269" height="136" alt="image" src="https://github.com/user-attachments/assets/a8949401-e195-4cbd-b45d-9efd95b0c306" />
@@ -49,10 +49,10 @@
 - 2024 :-
 <img width="303" height="163" alt="image" src="https://github.com/user-attachments/assets/5420b733-beb1-47d8-9876-efeb2b3cf138" />
 
-- 4. a) What is the average delivery_days for Delivered orders,
+4. a) What is the average delivery_days for Delivered orders,
 <img width="203" height="135" alt="image" src="https://github.com/user-attachments/assets/16b54732-f290-47ac-8377-a4492895742a" />
 
-- 4. b) broken down by region?
+4. b) broken down by region?
 - Central :-
 <img width="411" height="142" alt="image" src="https://github.com/user-attachments/assets/e34cab81-5ba7-42ca-88ed-09a4fa365200" />
 
@@ -69,7 +69,7 @@
 <img width="403" height="146" alt="image" src="https://github.com/user-attachments/assets/4de35b9f-0339-482b-8ea3-6a7771befe97" />
 
 
-- 5) Which age group (e.g. 18–25, 26–35, 36–45, 46+) placed the most orders?
+5) Which age group (e.g. 18–25, 26–35, 36–45, 46+) placed the most orders?
 
 - 46+ age placed most orders
 
