@@ -8,10 +8,10 @@
 
 | Task | Description | Status |
 |------|-------------|--------|
-| Task 1 | Data Cleaning & Exploration | 
-| Task 2 | SQL / Analysis Queries | 
-| Task 3 | Visualisations (5 charts) | 
-| Task 4 | Written Summary | 
+| Task 1 | Data Cleaning & Exploration | Completed
+| Task 2 | SQL / Analysis Queries | Completed
+| Task 3 | Visualisations (5 charts) | Completed
+| Task 4 | Written Summary | Completed
 
 ---
 
