@@ -242,10 +242,22 @@
 
 ### Task 4 — Written Summary
 
-- Most important insight
-- Year-on-year observation
-- Underperforming area + possible reason
-- One actionable recommendation
+- ##### The most important insight from the data is that Beauty and Electronics categories generate the highest revenue, making them the key drivers of the business. 
+
+- ##### Comparing year-on-year performance, 2024 shows higher total revenue than 2023, indicating consistent business growth. 
+
+- ##### The North region contributes the highest revenue, showing strong customer demand and performance in that area. 
+
+- ##### An underperforming area is the South region, which has comparatively lower revenue. This could be due to lower demand, weaker marketing, or operational challenges. 
+
+- ##### Most orders are successfully delivered, but some regions show higher cancellation rates, which may impact customer satisfaction.
+
+- ##### Customers prefer digital payment methods like UPI and cards, indicating a shift toward online transactions. 
+
+- ##### One actionable recommendation is to focus on improving performance in underperforming regions through targeted marketing and better delivery operations. 
+
+- ##### Additionally, the company should promote low-performing categories like Books to increase overall revenue diversification. 
+
 
 ---
 
