@@ -34,6 +34,18 @@
 
 
 2) Are there any missing values? Which columns have them, and why do you think they're blank?
+
+- Yes Missing value in the dataset, there are two columns have a missing values delivery_days column and return_reason column
+
+- Why are they blank?
+
+- delivery_days :-
+- This is blank mostly when the order is not delivered yet or cancelled.
+- Because delivery time only exists after delivery happens
+
+- return_reason :-
+- This is blank when the order is not returned.
+- Only returned orders will have a reason.
     
 3. a) What is the date range of the dataset?
 
