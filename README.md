@@ -113,6 +113,9 @@
   
 ### Task 2 — SQL / Analysis Queries
 
+## Power BI File
+[Download sql](./Task_2.sql)
+
 - #### 1) Which 3 categories generated the highest total net revenue across both years?
   
   ```sql
