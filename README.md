@@ -115,14 +115,20 @@
 
 - #### Which 3 categories generated the highest total net revenue across both years?
   
-  ```sql
-  SELECT category, SUM(net_revenue_inr) AS net_revenue
-  FROM shopease_orders
-  GROUP BY 1
-  ORDER BY net_revenue DESC
-  LIMIT 3;
+```sql
+SELECT category, SUM(net_revenue_inr) AS net_revenue
+FROM shopease_orders
+GROUP BY 1
+ORDER BY net_revenue DESC
+LIMIT 3;
   
 - Compare total net revenue 2023 vs 2024 — did the business grow year-on-year?
+
+```sql
+SELECT YEAR, SUM(net_revenue_inr) AS net_revenue
+FROM shopease_orders
+GROUP BY 1;
+  
 
 - Which region had the highest average order value? Which had the most cancellations?
 
