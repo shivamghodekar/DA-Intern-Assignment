@@ -19,11 +19,12 @@
 
 ### Task 1 — Data Cleaning & Exploration
 
-#### 1) How many orders are there in total? 
+#### 1 a) How many orders are there in total? 
 <img width="178" height="188" alt="image" src="https://github.com/user-attachments/assets/df840e4d-fa2e-45c3-b0d0-2a1795ce506c" />
 
 
-1. a) How many are Delivered / Returned / Cancelled?
+#### 1. b) How many are Delivered / Returned / Cancelled?
+
 - Cancelled :-
 <img width="353" height="152" alt="image" src="https://github.com/user-attachments/assets/1fea34ca-0385-4b2b-9eeb-b705964f0555" />
 
@@ -35,11 +36,11 @@
 
 
 
-2) Are there any missing values? Which columns have them, and why do you think they're blank?
+#### 2) Are there any missing values? Which columns have them, and why do you think they're blank?
 
 - Yes Missing value in the dataset, there are two columns have a missing values delivery_days column and return_reason column
 
-- Why are they blank?
+- #### Why are they blank?
 
 - delivery_days :-
 - This is blank mostly when the order is not delivered yet or cancelled.
