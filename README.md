@@ -1,4 +1,4 @@
-# 📊 ShopEase Data Analyst Intern Assessment
+# 📊 Envision Next Data Analyst Intern Assessment
 
 **Assessment:** Data Analyst Intern Take-Home Task  
 **Dataset:** ShopEase Online Orders 2023–2024 (1,000 rows)  
@@ -12,6 +12,7 @@
 | Task 2 | SQL / Analysis Queries | Completed
 | Task 3 | Visualisations (5 charts) | Completed
 | Task 4 | Written Summary | Completed
+| Bonus | Visualisations | Completed
 
 ---
 
