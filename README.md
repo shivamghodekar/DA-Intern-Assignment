@@ -130,7 +130,7 @@
   GROUP BY 1;
   
 
-  #### 3. a) Which region had the highest average order value? 
+- #### 3. a) Which region had the highest average order value? 
 
   ```sql
   SELECT region, AVG(net_revenue_inr) AS order_value
@@ -139,12 +139,61 @@
   ORDER BY order_value DESC
   LIMIT 1;
 
-- What is the most common return reason? Which category has the highest return rate?
+- #### 3. b) Which had the most cancellations?
 
-- Which payment method is most popular, and does it vary by region?
+  ```sql
+  SELECT region, COUNT(*) AS most_cancellations
+  FROM shopease_orders
+  WHERE order_status='Cancelled'
+  GROUP BY 1
+  ORDER BY most_cancellations DESC
+  LIMIT 1;
 
-- Find the top 5 products by total net revenue.
+- #### 4. a) What is the most common return reason?
 
+  ```sql
+  SELECT return_reason, COUNT(*) AS common_return_reason
+  FROM shopease_orders
+  WHERE return_reason IS NOT NULL
+  GROUP BY 1
+  ORDER BY common_return_reason DESC
+  LIMIT 1
+
+- #### 4. b) Which category has the highest return rate?
+
+  ```sql
+  SELECT category, COUNT(CASE WHEN return_reason IS NOT NULL THEN 1 END)*1.0/COUNT(*) AS return_rate
+  FROM shopease_orders
+  GROUP BY 1
+  ORDER BY return_rate DESC
+  LIMIT 1;
+
+- #### 5. a) Which payment method is most popular
+
+  ```sql
+  SELECT payment_method, COUNT(*) AS most_popular_method
+  FROM shopease_orders
+  GROUP BY 1
+  ORDER BY most_popular_method DESC
+  LIMIT 1;
+
+- #### 5. b) does it vary by region?
+
+  ```sql
+  SELECT region, payment_method, COUNT(*) AS most_popular_method
+  FROM shopease_orders
+  GROUP BY 1,2
+  ORDER BY 1,most_popular_method DESC
+
+- #### 6) Find the top 5 products by total net revenue
+
+  ```sql
+  SELECT product_name, SUM(net_revenue_inr) AS total_net_revenue
+  FROM shopease_orders
+  GROUP BY 1
+  ORDER BY total_net_revenue DESC
+  LIMIT 5;
+    
 ### Task 3 — Visualisations
 
 | # | Chart Type | What It Shows |
